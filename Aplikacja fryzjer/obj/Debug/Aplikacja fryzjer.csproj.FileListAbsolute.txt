@@ -1,0 +1,10 @@
+C:\Users\Daniel\source\repos\Aplikacja fryzjer\Aplikacja fryzjer\bin\Debug\Aplikacja fryzjer.exe.config
+C:\Users\Daniel\source\repos\Aplikacja fryzjer\Aplikacja fryzjer\bin\Debug\Aplikacja fryzjer.exe
+C:\Users\Daniel\source\repos\Aplikacja fryzjer\Aplikacja fryzjer\bin\Debug\Aplikacja fryzjer.pdb
+C:\Users\Daniel\source\repos\Aplikacja fryzjer\Aplikacja fryzjer\obj\Debug\Aplikacja fryzjer.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\Aplikacja fryzjer\Aplikacja fryzjer\obj\Debug\Aplikacja_fryzjer.Form1.resources
+C:\Users\Daniel\source\repos\Aplikacja fryzjer\Aplikacja fryzjer\obj\Debug\Aplikacja_fryzjer.Properties.Resources.resources
+C:\Users\Daniel\source\repos\Aplikacja fryzjer\Aplikacja fryzjer\obj\Debug\Aplikacja fryzjer.csproj.GenerateResource.cache
+C:\Users\Daniel\source\repos\Aplikacja fryzjer\Aplikacja fryzjer\obj\Debug\Aplikacja fryzjer.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\Aplikacja fryzjer\Aplikacja fryzjer\obj\Debug\Aplikacja fryzjer.exe
+C:\Users\Daniel\source\repos\Aplikacja fryzjer\Aplikacja fryzjer\obj\Debug\Aplikacja fryzjer.pdb
